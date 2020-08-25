@@ -1,4 +1,4 @@
-#Eagle files for the Teensy 4.x Series MCU Daughterboard
+Eagle files for the Teensy 4.x Series MCU Daughterboard
 
 This directory includes the Eagle files for a design of a Benchduino Daughterboard
 (see https://www.hamradioworkbench.com ) for the Teensy 4.x series of MCU.
