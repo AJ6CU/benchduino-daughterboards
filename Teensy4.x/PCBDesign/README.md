@@ -1,16 +1,18 @@
-# Design Files for Daughterboard
+# Teensy 4/4.1 CPU Daughterboard for Benchduino
+ 
+www.hamradioworkbench.com has designed and sells a general purpose development
+board for Microcontrollers. They have provided the designs for both the CPU
+Daughterboards as wells as the addon Prototype board.
 
-This folder includes the design files for the Daughterboard. Some of my earlier designs
-will have the files for both Eagle and Kicad. However, more recent designs will only
-have Kicad because it is "free" for 4 layer boards that are greater than 100mm x 100mm.
+This directory contains the design files for the Teensy 4/4.1 CPU Daughterboards. This
+design was done in Eagle.
 
-I like Eagle a lot, but given I am not a professional board designer, I cannot
-justify the annual subscription fees. 
 
-However, if someone wants to take my Kicad designs and move them to Eagle, I would
-welcome including them here.
+There is absolutely no warranty here. Use this at your own risk!
+
+
 
 73
-Mark
+Mark Hatch
 AJ6CU
- 
+

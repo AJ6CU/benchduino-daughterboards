@@ -8,7 +8,7 @@ version of the 4.1 with the same pinout, it *should* work too. But it has not be
 
 This folder includes:
 - Teensy4.1V3.sch - schematic
-- Teensy4.1Ve.brd - board layout
+- Teensy4.1V3.brd - board layout
 
 It is possible that you will need the Eagle library for Teensy. I found it
 
