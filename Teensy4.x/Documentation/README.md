@@ -30,6 +30,12 @@ connection, the 5V from the USB is distributed *to* the benchduino motherboard a
 used to power various devices you might have. This duo nature probably means you want to
 always jumper this one or think about disabling the power wire on your USB cord.
 
+However...
+you might want to consider removing this jumper if you are powering the processor
+by USB and *do not* the peripherals driven off this power source because of the current
+drain. In such a case, remove this jumper and power the Benchduino via the barrel
+connector.
+
 3.3V: This is also an input pin to the daughterboard. You want to jumper this
 one if you are powering the processor on 3.3V and switch the peripheral voltage rail
 to 3.3v.
