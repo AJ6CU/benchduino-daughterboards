@@ -8,8 +8,7 @@ This directory contains a Zip file with the Gerbers for the CPU Daughterboard fo
 ESP-S2-Saola processor.
 
 This design is in the process of being sent to the fab and checked out. As of
-8/30/2020, it has NOT been validated. Although it *should* work, it is even more
-risky than normal.
+8/30/2020, it has NOT been validated. 
 
 Once I receive these updated versions and have checked them out, i will update this
 README file.

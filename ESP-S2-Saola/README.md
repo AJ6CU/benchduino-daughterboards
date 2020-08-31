@@ -23,6 +23,9 @@ Subdirectories include:
             significant porting issues that you might need to be aware of in your
             own applications.
 
+# IMPORTANT! THIS DESIGN HAS NOT YET BEEN PRODUCED AND TESTED!!! I WILL POST AN UPDATE
+WHEN IT HAS BEEN TESTED.
+
 There is absolutely no warranty here. Use this at your own risk!
 
 

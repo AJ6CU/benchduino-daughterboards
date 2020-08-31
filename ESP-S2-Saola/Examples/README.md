@@ -8,6 +8,8 @@ Daughterboards as wells as the addon Prototype board.
 This directory contains the code example (typically derived from the original 
 Hamvention code of the published on the hamradioworkbench site)
 
+SINCE THIS BOARD HAS NOT YET BEEN DESIGNED THERE ARE NO EXAMPLE PROGRAMS!
+
 There is absolutely no warranty here. Use this at your own risk!
 
 
