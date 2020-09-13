@@ -7,11 +7,8 @@ Daughterboards as wells as the addon Prototype board.
 This directory contains a Zip file with the Gerbers for the CPU Daughterboard for a 
 ESP-S2-Saola processor.
 
-This design is in the process of being sent to the fab and checked out. As of
-8/30/2020, it has NOT been validated. 
-
-Once I receive these updated versions and have checked them out, i will update this
-README file.
+TThis design has been fabricated using these Gerbers and successfully runs the 
+Hamvention demo program.
 
 There is absolutely no warranty here. Use this at your own risk!
 

@@ -6,6 +6,17 @@ Daughterboards as wells as the addon Prototype board.
 
 This directory contains the CPU Daughterboards for the ESP32-WROOM processor.
 
+*IMPORTANT*
+There are many different versions of the ESP32. This design was built around:
+
+https://www.amazon.com/gp/product/B0718T232Z/ref=ask_ql_qh_dp_hza
+
+Just because your board has the same number of pins, it may not work...  There are also 
+different widths of boards, the latter ones being slightly wider.
+
+
+
+
 Subdirectories include:
 - Gerbers - this directory includes a zip file that you should be able to upload to
             your favorite Fab house.
@@ -23,8 +34,6 @@ Subdirectories include:
             significant porting issues that you might need to be aware of in your
             own applications.
 
-# IMPORTANT! THIS DESIGN HAS NOT YET BEEN PRODUCED AND TESTED!!! I WILL POST AN UPDATE
-WHEN IT HAS BEEN TESTED.
 
 There is absolutely no warranty here. Use this at your own risk!
 

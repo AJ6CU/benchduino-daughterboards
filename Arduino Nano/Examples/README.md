@@ -11,7 +11,7 @@ Hamvention code of the published on the hamradioworkbench site)
 There is absolutely no warranty here. Use this at your own risk!
 
 Note that the Nano does not support Serial1, only Serial. Consequently, large portions
-of the code have been comment out. 
+of the code related to CAT control had to be comment out. 
 
 
 
